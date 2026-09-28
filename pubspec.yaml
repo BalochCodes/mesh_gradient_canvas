@@ -1,0 +1,28 @@
+name: mesh_gradient_canvas
+description: An organic, multi-color mesh gradient canvas for Flutter inspired by Stripe and iOS 18 with floating color blobs, touch reactivity, and fluid physics.
+version: 0.0.1
+homepage: https://github.com/BalochCodes/mesh_gradient_canvas
+repository: https://github.com/BalochCodes/mesh_gradient_canvas
+issue_tracker: https://github.com/BalochCodes/mesh_gradient_canvas/issues
+
+topics:
+  - gradient
+  - mesh-gradient
+  - animation
+  - canvas
+  - ui
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
